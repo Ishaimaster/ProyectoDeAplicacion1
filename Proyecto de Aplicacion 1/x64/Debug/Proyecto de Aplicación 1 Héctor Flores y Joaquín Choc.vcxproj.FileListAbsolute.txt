@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Proyecto de Aplicación 1 Héctor Flores y Joaquín Choc\x64\Debug\Proyecto de Aplicación 1 Héctor Flores y Joaquín Choc.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proyecto de Aplicación 1 Héctor Flores y Joaquín Choc\x64\Debug\Proyecto de Aplicación 1 Héctor Flores y Joaquín Choc.exe
+C:\Users\HP\source\repos\Proyecto de Aplicacion 1\x64\Debug\Proyecto de Aplicación 1 Héctor Flores y Joaquín Choc.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Proyecto de Aplicacion 1\x64\Debug\Proyecto de Aplicación 1 Héctor Flores y Joaquín Choc.exe
